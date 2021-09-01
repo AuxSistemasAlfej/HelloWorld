@@ -1,4 +1,2 @@
 # HelloWorld
 Prueba
-
-print(hola)
